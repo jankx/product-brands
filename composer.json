@@ -1,0 +1,19 @@
+{
+    "name": "ramphor/woobrand",
+    "description": "Create the product brand for WooCommerce",
+    "type": "project",
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ramphor\\WooBrand\\": "src/"
+        }
+    }
+}
