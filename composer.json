@@ -1,5 +1,5 @@
 {
-    "name": "ramphor/woobrand",
+    "name": "jankx/product-brands",
     "description": "Create the product brand for WooCommerce",
     "type": "project",
     "license": "GPL-2.0-only",
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Ramphor\\WooBrand\\": "src/"
+            "Jankx\\Brands\\": "src/"
         }
     }
 }
