@@ -1,7 +1,7 @@
 <?php
-namespace Ramphor\WooBrand;
+namespace Jankx\ProductBrands;
 
-class WooBrand {
+class BrandManager {
     protected static $instance;
 
     public static function getInstance() {
